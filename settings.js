@@ -4,7 +4,7 @@ global.creator = 'Fikiofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://FikiShop199:v7yZ1moGTYRhyvTB@cluster0.u7tvjwy.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "doprax05@gmail.com" //email
-global.email_password = "rlyeuwmhlglhsdev" //application password email
+global.email_password = "rlye uwmh lglh sdev" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
